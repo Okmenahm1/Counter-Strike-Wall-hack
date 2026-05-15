@@ -31,6 +31,10 @@ The goal of this repository is to support learning about:
 
 ---
 
+## Usage
+
+Run the CSGO.exe and have fun
+
 ## Important Notice
 
 This repository may contain files or references related to game modification concepts.  
